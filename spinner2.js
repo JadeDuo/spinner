@@ -1,4 +1,4 @@
-const fullAni = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r|   ', '\r/   ', '\r-   ', '\r\\   ','\r|   ']
+const fullAni = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r|   ', '\r/   ', '\r-   ', '\r\\   ','\r|   '];
 let time = 100;
 for (let each of fullAni) {
   setTimeout(() => {
